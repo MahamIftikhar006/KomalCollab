@@ -5,7 +5,7 @@ public class Main {
 
         Shop shop = new Shop(new Person("Komal Fawad","komalfawad2112@gmail.com"), "MM Alam Road, Lahore");
 
-        Shop shop1 = new Shop("La Cornucopia");
+        Shop shop1 = new Shop("Komal ki shop");
 
         System.out.println("Restaurant Name : " +shop1.getShopName());
 
